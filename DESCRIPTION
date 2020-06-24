@@ -7,10 +7,11 @@ Authors@R:
            role = c("cre", "aut"),
            email = "giampinoalice@gmail.com")
 Description: A sentence describing the package.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: LGPL (>= 2.1)
 URL: https://github.com/AliceGiampino/shapes
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
+Suggests: 
+    testthat
